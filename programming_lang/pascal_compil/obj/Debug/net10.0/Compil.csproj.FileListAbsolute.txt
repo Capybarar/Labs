@@ -1,0 +1,15 @@
+C:\Users\Capybara\Desktop\ЯПы\Compil\obj\Debug\net10.0\Compil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Capybara\Desktop\ЯПы\Compil\obj\Debug\net10.0\Compil.AssemblyInfoInputs.cache
+C:\Users\Capybara\Desktop\ЯПы\Compil\obj\Debug\net10.0\Compil.AssemblyInfo.cs
+C:\Users\Capybara\Desktop\ЯПы\Compil\obj\Debug\net10.0\Compil.csproj.CoreCompileInputs.cache
+C:\Users\Capybara\Desktop\ЯПы\Compil\bin\Debug\net10.0\Compil.exe
+C:\Users\Capybara\Desktop\ЯПы\Compil\bin\Debug\net10.0\Compil.deps.json
+C:\Users\Capybara\Desktop\ЯПы\Compil\bin\Debug\net10.0\Compil.runtimeconfig.json
+C:\Users\Capybara\Desktop\ЯПы\Compil\bin\Debug\net10.0\Compil.dll
+C:\Users\Capybara\Desktop\ЯПы\Compil\bin\Debug\net10.0\Compil.pdb
+C:\Users\Capybara\Desktop\ЯПы\Compil\obj\Debug\net10.0\Compil.dll
+C:\Users\Capybara\Desktop\ЯПы\Compil\obj\Debug\net10.0\refint\Compil.dll
+C:\Users\Capybara\Desktop\ЯПы\Compil\obj\Debug\net10.0\Compil.pdb
+C:\Users\Capybara\Desktop\ЯПы\Compil\obj\Debug\net10.0\Compil.genruntimeconfig.cache
+C:\Users\Capybara\Desktop\ЯПы\Compil\obj\Debug\net10.0\ref\Compil.dll
+C:\Users\Capybara\Desktop\ЯПы\Compil\bin\Debug\net10.0\test.pas
